@@ -1,7 +1,7 @@
 # RubatoLab2023
 
 ## Generate Image
-### Satable diffusion
+#### Satable diffusion
  * [High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
  * [Hugging face-Diffusers](https://huggingface.co/docs/diffusers/index)
 
