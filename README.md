@@ -1,5 +1,10 @@
 # RubatoLab2023
 
+## Generate Image
+* Satable diffusion
+ * [High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
+ * [Hugging face-Diffusers](https://huggingface.co/docs/diffusers/index)
+
 ## Generate Video
 * [stable_diffusion_videos](https://github.com/nateraw/stable-diffusion-videos)  
 * [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
