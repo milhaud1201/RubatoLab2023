@@ -1,5 +1,11 @@
 # RubatoLab2023
 
+|일정|분류|활동내용|
+|----|----|----|
+|2023-04-08|촬영|노량진 지하배수로|
+|2023-04-15|스토리보드|콘티 구성(이미지, 음원 샘플링)|
+
+
 ## Generate Image
 #### Satable diffusion
  * [High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/CompVis/latent-diffusion)
