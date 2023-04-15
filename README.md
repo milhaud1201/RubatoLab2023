@@ -4,6 +4,12 @@
 |----|----|----|
 |2023-04-08|촬영|노량진 지하배수로|
 |2023-04-15|스토리보드|콘티 구성(이미지, 음원 샘플링)|
+|2023-04-22|||
+|2023-04-29|||
+|2023-05-06|||
+|2023-05-13|||
+|2023-05-20|||
+|2023-05-27|||
 
 
 ## Generate Image
@@ -26,3 +32,8 @@
 ## Music Tool
 * [kontakt-7](https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/)
 * [GUGAK](http://catsnu.com/Project/Gugak.aspx)
+* [Ableton](https://www.ableton.com/)
+
+## Reference
+* https://www.redbull.com/kr-ko/events/redbullmusicseoulsori/
+
